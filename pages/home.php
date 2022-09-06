@@ -33,8 +33,7 @@
                             <li><a href="file-upload.php">File Upload</a></li>
                             <li><a href="floating-menu.php">Floating Menu</a></li>
                             <li><a href="form-authentication.php">Form Authentication</a></li>
-                            <li><a href="frames.php">Frames</a></li>
-                            <li><a href="geolocation.php">Geolocation</a></li>
+                             <li><a href="geolocation.php">Geolocation</a></li>
                             <li><a href="floating-menu.php">Floating Menu</a></li>
                             <li><a href="horizontal-slider.php">Horizontal Slider</a></li>
                             <li><a href="hovers.php">Hovers</a></li>
@@ -63,7 +62,7 @@
                             <li><a href="sortable-data-tables.php">Sortable Data Tables</a></li>
                             <li><a href="status-codes.php">Status Codes</a></li>
                             <li><a href="typos.php">Typos</a></li>
-                            <li><a href="wysıwyg-ditor.php">WYSIWYG Editor</a></li>
+                            <li><a href="wysiwyg-ditor.php">WYSIWYG Editor</a></li>
                             <li><a href="web-tables.php">Web Tables</a></li>
                         </ul>
                     </div>

@@ -49,14 +49,14 @@
                 <li><a href="../notification-messages.php">Notification Messages</a></li>
                 <li><a href="../radio-buttons.php">Radio Buttons</a></li>
                 <li><a href="../redirect-link.php">Redirect Link</a></li>
+                <li><a href="../registration-form.php">Registration Form</a></li>
                 <li><a href="../secure-file-download.php">Secure File Download</a></li>
                 <li><a href="../shifting-content.php">Shifting Content</a></li>
                 <li><a href="../sign-up-for-mailing-list.php">Sign Up For Mailing List</a></li>
                 <li><a href="../slow-resources.php">Slow Resources</a></li>
                 <li><a href="../sortable-data-tables.php">Sortable Data Tables</a></li>
                 <li><a href="../status-codes.php">Status Codes</a></li>
-                <li><a href="../typos.php">Typos</a></li>
-                <li><a href="../wysıwyg-ditor.php">WYSIWYG Editor</a></li>
+                 <li><a href="../wysiwyg-ditor.php">WYSIWYG Editor</a></li>
                 <li><a href="../web-tables.php">Web Tables</a></li>
             </ol>
         </div>

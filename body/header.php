@@ -9,9 +9,7 @@
     <title>Automation Engineer Applications</title>
     <link rel="icon" sizes="32x32" href="https://cdn-gckon.nitrocdn.com/mcjNijDCxcasHNsTPbACWXaLwpYrhyqG/assets/static/optimized/wp-content/uploads/2021/12/131ff0b59283157ad5b61823343c3040.techProEducation-32x32.png">
 
-    <link href="assets/blog.css" rel="stylesheet">
-    <link href="assets/bootstrap.min.css" rel="stylesheet">
-    <style>
+     <style>
 
 
         .nav-scroller .nav {
@@ -28,11 +26,12 @@
     <!-- Custom styles for this template -->
     <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="assets/blog.css" rel="stylesheet">
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/css/bootstrap.min.css"></link>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link href="assets/blog.css" rel="stylesheet">
 
 </head>
 <body>
