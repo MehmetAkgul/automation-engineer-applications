@@ -12,7 +12,6 @@
                 <li><a href="../a-b-testing.php">A/B Testing</a></li>
                 <li><a href="../add-remove-elements.php">Add/Remove Elements</a></li>
                 <li><a href="../autocomplete.php">Autocomplete</a></li>
-                <li><a href="../basic-auth.php">Basic Auth (user and pass: admin)</a></li>
                 <li><a href="../broken-images.php">Broken Images</a></li>
                 <li><a href="../challenging-dom.php">Challenging DOM</a></li>
                 <li><a href="../checkboxes.php">Checkboxes</a></li>
@@ -30,7 +29,6 @@
                 <li><a href="../file-upload.php">File Upload</a></li>
                 <li><a href="../forgot-password.php">Forgot Password</a></li>
                 <li><a href="../form-authentication.php">Form Authentication</a></li>
-                <li><a href="../frames.php">Frames</a></li>
                 <li><a href="../geolocation.php">Geolocation</a></li>
                 <li><a href="../floating-menu.php">Floating Menu</a></li>
                 <li><a href="../horizontal-slider.php">Horizontal Slider</a></li>
@@ -41,23 +39,16 @@
                 <li><a href="../javascript-alerts.php">JavaScript Alerts</a></li>
                 <li><a href="../javascript-onload-event-error.php">JavaScript onload event error</a></li>
                 <li><a href="../key-presses.php">Key Presses</a></li>
-                <li><a href="../large-deep-dom.php">Large & Deep DOM</a></li>
                 <li><a href="../multiple-buttons.php">Multiple Buttons</a></li>
                 <li><a href="../multiple-windows.php">Multiple Windows</a></li>
-                <li><a href="../nested-frames.php">Nested Frames</a></li>
                 <li><a href="../new-tab.php">New tab</a></li>
                 <li><a href="../notification-messages.php">Notification Messages</a></li>
                 <li><a href="../radio-buttons.php">Radio Buttons</a></li>
-                <li><a href="../redirect-link.php">Redirect Link</a></li>
                 <li><a href="../registration-form.php">Registration Form</a></li>
                 <li><a href="../secure-file-download.php">Secure File Download</a></li>
-                <li><a href="../shifting-content.php">Shifting Content</a></li>
-                <li><a href="../sign-up-for-mailing-list.php">Sign Up For Mailing List</a></li>
-                <li><a href="../slow-resources.php">Slow Resources</a></li>
                 <li><a href="../sortable-data-tables.php">Sortable Data Tables</a></li>
                 <li><a href="../status-codes.php">Status Codes</a></li>
-                 <li><a href="../wysiwyg-ditor.php">WYSIWYG Editor</a></li>
-                <li><a href="../web-tables.php">Web Tables</a></li>
+                <li><a href="../wysiwyg-ditor.php">WYSIWYG Editor</a></li>
             </ol>
         </div>
 
